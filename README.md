@@ -92,7 +92,7 @@ January 31, 2020 Submission of full papers
 
 February 28, 2020 Notification of acceptance for papers
 
-March 13, 2020 Deadline of early registration
+March 13, 2020 End of early registration
 
 March 28, 2020	Submission of final papers
 
@@ -107,8 +107,22 @@ For more information and application, please contact modelica2020japanese@modeli
 
 ## Conference Board
 
-TBD
+Dr. Rui Gao, Modelon K.K., Tokyo, Japan
+
+Dr. Yutaka Hirano, Toyota Motor Corp., Japan
+
+Dr. Hilding Elmqvist, Mogram, Lund, Sweden
+
+Prof. Peter Fritzson, Linköping University, Sweden
+
+Prof. Martin Otter, DLR, Germany
+
+Dr. Michael Tiller, Xogeny, Michigan, USA
+
+Dr. Hubertus Tummescheit, Modelon Inc. USA
 
 ## Local Organization
 
-Modelon K.K. (https://www.modelon.com)
+Dr. Rui Gao, Modelon K.K., Tokyo, Japan
+
+Dr. Yutaka Hirano, Toyota Motor Corp., Japan
