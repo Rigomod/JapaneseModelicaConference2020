@@ -1,6 +1,6 @@
 The 3rd Japanese Modelica Conference.
 
-The 3rd Japanese Modelica Conference (The Asian Modelica Conference) will be held at Nihonbashi Takashimaya Mitsui Building, Tokyo, Japan from May 13–14, 2020. It is organized by Modelica Association and Modelon K.K. in cooperation with the Dr. Yutaka Hirano of Toyota Motor Corporation.
+The 3rd Japanese Modelica Conference (The Asian Modelica Conference 2020) will be held at Nihonbashi Takashimaya Mitsui Building, Tokyo, Japan from May 13–14, 2020. It is organized by Modelon K.K. in cooperation with Modelica Association and Dr. Yutaka Hirano of Toyota Motor Corporation.
 
 # About the Conference
 
@@ -102,7 +102,7 @@ Registration and pricing will be available through Eventbrite, stay tuned.
 
 # Organization and Contact
 
-The conference is organized by Modelica Association and Modelon K.K. in corporation with Dr. Yutaka Hirano.
+The conference is organized by Modelon K.K. in corporation with Modelica Association and Dr. Yutaka Hirano.
 For more information and application, please contact modelica2020japanese@modelica.org.
 
 ## Conference Board
